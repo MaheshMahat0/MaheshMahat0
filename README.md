@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm M Mahato
+# 👋 Hi there, I'm Mahesh Mahato
 
 Welcome to my GitHub! I'm a **Data Scientist** passionate about turning data into meaningful insights and real-world solutions.
 
@@ -29,7 +29,6 @@ Here are a few projects I’ve worked on:
 - 🎓 [Student Performance Analysis](#) – Analyzing how different factors impact student outcomes.
 - 📞 [Retention Radar – Telecom Churn](#) – Identifying customer churn using data and ML.
 
-> (*Replace `#` with actual project URLs when ready.*)
 
 ---
 
