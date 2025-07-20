@@ -42,7 +42,7 @@ Here are a few projects I’ve worked on:
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: [your-linkedin-url](https://linkedin.com/in/mahesh-m8335)
+- 💼 LinkedIn: [mahesh-m8335](https://linkedin.com/in/mahesh-m8335)
 - 📧 Email: mahesh.m8335@gmail.com
 
 ---
