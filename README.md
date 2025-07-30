@@ -34,7 +34,6 @@ Here are a few projects I’ve worked on:
 
 ## 🌱 Currently Learning
 
-- Deploying ML models using **Streamlit**
 - Improving skills in **EDA** and **model evaluation**
 - Reading more about **feature engineering** and **data storytelling**
 
