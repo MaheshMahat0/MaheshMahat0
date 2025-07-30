@@ -25,9 +25,9 @@ Welcome to my GitHub! I'm a **Data Scientist** passionate about turning data int
 ## 📂 Projects
 
 Here are a few projects I’ve worked on:
-- 🫀 [Heart Disease Prediction](#) – RandomForestClassifier model to predict risk of heart disease.
-- 🎓 [Student Performance Analysis](#) – Analyzing how different factors impact student outcomes.
-- 📞 [Retention Radar – Telecom Churn](#) – Identifying customer churn using data and ML.
+- 🫀 [Heart Disease Prediction](https://github.com/MaheshMahat0/heart-disease-prediction.git) – RandomForestClassifier model to predict risk of heart disease.
+- 🎓 [Student Performance Analysis](https://github.com/MaheshMahat0/students_performance_analysis.git) – Analyzing how different factors impact student outcomes.
+- 📞 [Retention Radar – Telecom Churn](https://github.com/MaheshMahat0/Retention-Radar-Telecom-Customer-Insights.git) – Identifying customer churn using data and ML.
 
 
 ---
