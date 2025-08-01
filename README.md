@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Mahesh Mahato
 
 Welcome to my GitHub! I'm a **Data Scientist** passionate about turning data into meaningful insights and real-world solutions.
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Library-150458?logo=pandas)
-![SQL](https://img.shields.io/badge/SQL-Queries-orange?logo=sqlite)
+
 
 ---
 
